@@ -6,11 +6,13 @@
 
 ## 🚀 About Me
 
-I enjoy **learning, taking on new challenges, and building web and mobile applications**. I like working in teams, sharing ideas, and discussing code, technologies, and development tools.
+I enjoy learning, taking on new challenges, and developing scalable software. I enjoy working as part of a team, sharing ideas, and discussing code, technologies, and development tools.
 
-I am currently **strengthening my technical skills while completing my Systems Engineering degree**, continuously learning and improving my ability to develop practical solutions and solve problems.
+I am currently honing my technical skills while completing my degree in Systems Engineering, continuously learning and improving my ability to develop practical solutions and solve problems.
 
-I am interested in opportunities where I can **continue growing as a developer, contribute to real-world projects, and learn from experienced teams**.
+I am interested in opportunities where I can continue to grow as a developer, contribute to real-world projects, and learn from experienced teams.
+
+Translated with DeepL.com (free version)
 
 📧 **Email:** [navinbalmaceda83@gmail.com](mailto:navinbalmaceda83@gmail.com)
 
