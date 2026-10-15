@@ -12,7 +12,7 @@ Actualmente estoy perfeccionando mis habilidades técnicas mientras termino mi g
 
 Me interesan las oportunidades que me permitan seguir creciendo como desarrollador, contribuir a proyectos del mundo real y aprender de equipos con experiencia.
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
+
 
 📧 **Email:** [navinbalmaceda83@gmail.com](mailto:navinbalmaceda83@gmail.com)
 
