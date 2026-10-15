@@ -4,21 +4,21 @@
 
 </div>
 
-## 🚀 About Me
+## 🚀 Acerca de mí
 
-I enjoy learning, taking on new challenges, and developing scalable software. I enjoy working as part of a team, sharing ideas, and discussing code, technologies, and development tools.
+Me gusta aprender, afrontar nuevos retos y desarrollar software escalable. Disfruto trabajando en equipo, compartiendo ideas y debatiendo sobre código, tecnologías y herramientas de desarrollo.
 
-I am currently honing my technical skills while completing my degree in Systems Engineering, continuously learning and improving my ability to develop practical solutions and solve problems.
+Actualmente estoy perfeccionando mis habilidades técnicas mientras termino mi grado en Ingeniería de Sistemas, aprendiendo continuamente y mejorando mi capacidad para desarrollar soluciones prácticas y resolver problemas.
 
-I am interested in opportunities where I can continue to grow as a developer, contribute to real-world projects, and learn from experienced teams.
+Me interesan las oportunidades que me permitan seguir creciendo como desarrollador, contribuir a proyectos del mundo real y aprender de equipos con experiencia.
 
-Translated with DeepL.com (free version)
+Traducción realizada con la versión gratuita del traductor DeepL.com
 
 📧 **Email:** [navinbalmaceda83@gmail.com](mailto:navinbalmaceda83@gmail.com)
 
-## 🛠️ Technologies
+## 🛠️ Tecnologías
 
-### 💻 Programming Languages
+### 💻 Lenguajes de programación
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -26,13 +26,13 @@ Translated with DeepL.com (free version)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Bases de datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-### ⚙️ Frameworks & Technologies
+### ⚙️ Marcos y tecnologías
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
@@ -43,13 +43,13 @@ Translated with DeepL.com (free version)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-### 📚 Currently Learning
+### 📚 Actualmente estoy aprendiendo
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 ---
 
-## 📌 What I Bring
+## 📌 Lo que aporto
 
 * 💡 Problem-solving and idea generation
 * 📚 Continuous learning and improvement
