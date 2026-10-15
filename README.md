@@ -51,11 +51,11 @@ Me interesan las oportunidades que me permitan seguir creciendo como desarrollad
 
 ## 📌 Lo que aporto
 
-* 💡 Problem-solving and idea generation
-* 📚 Continuous learning and improvement
-* 🤝 Teamwork and collaboration
-* 🚀 Adaptability to new technologies
-* 🛠️ Commitment to completing projects and solving challenges
+* 💡 Resolución de problemas y generación de ideas
+* 📚 Aprendizaje y mejora continuos
+* 🤝 Trabajo en equipo y colaboración
+* 🚀 Capacidad de adaptación a las nuevas tecnologías
+* 🛠️ Compromiso con la finalización de proyectos y la resolución de retos
 
 </div>
 
